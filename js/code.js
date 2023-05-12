@@ -13,3 +13,5 @@ resetBtn.addEventListener('click', function () {
     counter = 0;
     counterText.innerHTML = counter;
 })
+
+
